@@ -1,4 +1,4 @@
-![InkedESP-12E-Development-Board-ESP8266-NodeMCU-Pinout_LI](https://user-images.githubusercontent.com/69695347/125140187-2f642b00-e127-11eb-8518-19cdade6cac4.jpg)
+<img width="1139" height="1039" alt="WadESP-Scout" src="https://github.com/user-attachments/assets/47a92aa4-cc99-4358-afa5-c5102deb1885" />
 
 # This is edited project for I2C LCD and A button problem
 1. Use D1 & D2 for I2C lcd (right 3v3 & right GND)
