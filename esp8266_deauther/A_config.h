@@ -7,8 +7,8 @@
 #define DEBUG_BAUD 115200
 
 #define DEFAULT_ESP8266
-#define AP_PASSWD "A0773565292"
-#define AP_SSID "WADPHDstike"
+#define AP_PASSWD "12345678"
+#define AP_SSID "Scout"
 
 
 #define SH1106_I2C
@@ -248,7 +248,7 @@
 #endif // ifndef WEB_IP_ADDR
 
 #ifndef WEB_URL
-  #define WEB_URL "wadph.me"
+  #define WEB_URL "scout.me"
 #endif // ifndef WEB_URL
 
 // ======== CONSTANTS ========== //
