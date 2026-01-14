@@ -3,7 +3,7 @@
 # This is edited project for I2C LCD and A button problem
 1. Use D1 & D2 for I2C lcd (right 3v3 & right GND)
 2. Use D3 D5 D6 for buttons
-3. D3 = A | D5 = UP | D6 = DOWN 
+3. D5 = UP | D6 = DOWN | D7 = OK (A)   
 
 ## Notes
 Deleted all of non used Configs in A_config.h 
